@@ -3,3 +3,6 @@ Update code in branch A
 Update code in branch Basdas
 
 Sửa code ở branch testA
+
+
+Sửa code ở branch testB
